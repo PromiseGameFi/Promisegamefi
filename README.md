@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Promise+Emmanuel+Oluwadare;Engineer+%E2%80%94+Gameplay+%7C+AI/Robotics+%7C+Onchain+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Promise+Emmanuel+Oluwadare;Engineer+%E2%80%94+Gameplay+%7C+AI+%7C+Onchain+Systems" alt="Typing SVG" />
 
 </div>
 
